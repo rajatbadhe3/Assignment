@@ -1,0 +1,13 @@
+{
+"users":[
+    {"id":1,"first_name":"Rajat","last_name":"Badhe","email":"rajat@miibeian.gov.cn","Amount":10000},
+{"id":2,"first_name":"Karan","last_name":"Lamba","email":"karan@qq.com","Amount":30000},
+{"id":3,"first_name":"Faiz","last_name":"Khan","email":"faiz@mysql.com","Amount":15000},
+{"id":4,"first_name":"Bobby","last_name":"Rodriguez","email":"bobby@altervista.org","Amount":10000},
+{"id":5,"first_name":"Aisha","last_name":"Sheikh","email":"aisha@comcast.net","Amount":15000},
+{"id":6,"first_name":"Tara","last_name":"Sitara","email":"tara@bravesites.com","Amount":20000},
+{"id":7,"first_name":"kaloo","last_name":"Kantastha","email":"kaloo@last.fm","Amount":90000},
+{"id":8,"first_name":"Ojas","last_name":"Teli","email":"ojas@t-online.de","Amount":60000},
+{"id":9,"first_name":"Arti","last_name":"Sawant","email":"arti@a8.net","Amount":50000},
+{"id":10,"first_name":"Rahul","last_name":"Rokde","email":"rahul@bloomberg.com","Amount":70000}]
+}
